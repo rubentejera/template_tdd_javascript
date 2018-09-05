@@ -1,0 +1,19 @@
+{
+  "name": "template_kata_tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.5.0"
+  },
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost/"
+  }
+}
